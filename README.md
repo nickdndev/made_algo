@@ -1,1 +1,1 @@
-# made_algo
+# [Made](https://data.mail.ru) algo course 
